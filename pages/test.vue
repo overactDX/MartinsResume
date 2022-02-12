@@ -2,9 +2,9 @@
 .w-full.relative.mt-4.shadow-2xl.rounded.my-24.overflow-hidden
   .top.h-64.w-full.bg-blue-600.overflow-hidden.relative
     img.bg.w-full.h-full.object-cover.object-center.absolute.z-0(src="https://wallpaperaccess.com/full/1867142.jpg" alt="")
-    .flex.flex-col.justify-center.items-center.relative.h-full.bg-black.bg-opacity-50.text-white
-      img.h-36.w-36.object-cover.rounded-md(src="https://scontent.fbkk5-7.fna.fbcdn.net/v/t1.6435-9/76751398_785168335238949_1226211805798334464_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=174925&_nc_eui2=AeGjaKM1dfR62xRgN_cemLNbx3cmh4pwtWbHdyaHinC1ZqbtXNKV_yj69Fu6QdN2KJ5uZE-p7NjMm9kMrBcMNQvH&_nc_ohc=GEsc-9xxoo4AX-bgqMn&_nc_ht=scontent.fbkk5-7.fna&oh=00_AT8rdCtkox5161d5EzZr72tDp1p-JDrH1nwBCsxy2P-IUQ&oe=622DEAB3")
-      h1.text-2xl.font-bold.uppercase.pt-4 Verayutt Pakpume
+    .flex.flex-col.justify-center.relative.h-full.bg-black.bg-opacity-50.text-white.pl-6
+      img.h-36.w-60.object-cover.rounded-lg(src="https://scontent.fbkk5-1.fna.fbcdn.net/v/t1.15752-9/259401406_410260017522388_1456658837909761865_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=ae9488&_nc_ohc=LvB6UeN7faMAX8EM-AL&_nc_ht=scontent.fbkk5-1.fna&oh=03_AVJNnOZo-mdMKSFBbjdOxeMjGDZQCDkjlfTgx0Kg8jrBmA&oe=622F2CD2")
+      h1.text-2xl.font-bold-500.uppercase.pt-4.fo Verayutt Pakpume
 
   .grid.grid-cols-12.bg-white
     .col-span-12.w-full.px-3.py-6.justify-center.flex.space-x-4.border-b.border-solid(class="md:space-x-0 md:space-y-4 md:flex-col md:col-span-2 md:justify-start")
@@ -21,16 +21,18 @@
             label.text-xl.font-semibold Experience
 
         .p-2.space-x-2
-            span.inline-flex.bg-pink-600.text-white.rounded-full.h-6.px-3.justify-center.items-center 04-05/2021
-            .inline-flex.items-center.bg-white.leading-none.text-pink-600.rounded-full.p-2.shadow.text-teal.text-sm
-                span.inline-flex.bg-pink-600.text-white.rounded-full.h-6.px-3.justify-center.items-center OneDee Solution Co., Ltd.,
-                span.inline-flex.px-2 Front-end Developer (Internship)
-
-        .p-2.space-x-2
-            span.inline-flex.bg-red-600.text-white.rounded-full.h-6.px-3.justify-center.items-center 03/2021
+            .inline-flex.items-center.bg-white.leading-none.text-red-600.rounded-full.p-2.shadow.text-teal.text-sm
+              span.inline-flex.bg-red-600.text-white.rounded-full.h-6.px-3.justify-center.items-center 03/2021
             .inline-flex.items-center.bg-white.leading-none.text-red-600.rounded-full.p-2.shadow.text-teal.text-sm
                 span.inline-flex.bg-red-600.text-white.rounded-full.h-6.px-3.justify-center.items-center 20Scoops CNX Co., Ltd.,
                 span.inline-flex.px-2 Hackathon Boot Camp (Attend)
+
+        .p-2.space-x-2
+            .inline-flex.items-center.bg-white.leading-none.text-pink-600.rounded-full.p-2.shadow.text-teal.text-sm
+              span.inline-flex.bg-pink-600.text-white.rounded-full.h-6.px-3.justify-center.items-center 04 - 05/2021
+            .inline-flex.items-center.bg-white.leading-none.text-pink-600.rounded-full.p-2.shadow.text-teal.text-sm
+                span.inline-flex.bg-pink-600.text-white.rounded-full.h-6.px-3.justify-center.items-center OneDee Solution Co., Ltd.,
+                span.inline-flex.px-2 Front-end Developer (Internship)
 
         p.text-lg.font-bold Technical Skills
 
@@ -52,10 +54,10 @@
               img(src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="48px" height="48px")
               a.text-lg css
             .flex.pt-2.space-x-4
-              img(src="https://cdn-icons.flaticon.com/png/512/3098/premium/3098090.png?token=exp=1644663343~hmac=13a9c2a5adc6538ffd373bbe49f6c317" width="48px" height="48px")
+              img(src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" width="48px" height="48px")
               a.text-lg Python
             .flex.pt-2.space-x-4
-              img(src="https://cdn-icons.flaticon.com/png/512/5433/premium/5433712.png?token=exp=1644663370~hmac=9f07e504ef68f1af1d7b7fc4ba97b8e3" width="48px" height="48px")
+              img(src="https://arnondora.in.th/content/images/2021/01/Get-to-know-Java-Logo.png" width="48px" height="48px")
               a.text-lg Java
 
           .pt-8.pl-20.space-y-6
@@ -104,3 +106,11 @@
               a.text-lg GitLab
 
 </template>
+<style scoped>
+@import url('https://fonts.googleapis.com/css2?family=Rammetto+One&family=Rowdies:wght@700&display=swap');
+
+.fo {
+  font-family: 'Rammetto One', cursive;
+  font-size: 18px;
+}
+</style>
