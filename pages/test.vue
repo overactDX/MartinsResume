@@ -4,7 +4,7 @@
     img.bg.w-full.h-full.object-cover.object-center.absolute.z-0(src="https://wallpaperaccess.com/full/1867142.jpg" alt="")
     .flex.flex-col.justify-center.items-center.relative.h-full.bg-black.bg-opacity-50.text-white
       img.h-36.w-36.object-cover.rounded-md(src="https://scontent.fbkk5-7.fna.fbcdn.net/v/t1.6435-9/76751398_785168335238949_1226211805798334464_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=174925&_nc_eui2=AeGjaKM1dfR62xRgN_cemLNbx3cmh4pwtWbHdyaHinC1ZqbtXNKV_yj69Fu6QdN2KJ5uZE-p7NjMm9kMrBcMNQvH&_nc_ohc=GEsc-9xxoo4AX-bgqMn&_nc_ht=scontent.fbkk5-7.fna&oh=00_AT8rdCtkox5161d5EzZr72tDp1p-JDrH1nwBCsxy2P-IUQ&oe=622DEAB3")
-      h1.text-2xl.font-semibold.uppercase.pt-4 Verayutt Pakpume
+      h1.text-2xl.font-bold.uppercase.pt-4 Verayutt Pakpume
 
   .grid.grid-cols-12.bg-white
     .col-span-12.w-full.px-3.py-6.justify-center.flex.space-x-4.border-b.border-solid(class="md:space-x-0 md:space-y-4 md:flex-col md:col-span-2 md:justify-start")
