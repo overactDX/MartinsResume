@@ -3,7 +3,7 @@
   .top.h-64.w-full.bg-blue-600.overflow-hidden.relative
     img.bg.w-full.h-full.object-cover.object-center.absolute.z-0(src="https://wallpaperaccess.com/full/1867142.jpg" alt="")
     .flex.flex-col.justify-center.relative.h-full.bg-black.bg-opacity-50.text-white.pl-6
-      img.h-36.w-60.object-cover.rounded-lg(src="https://scontent.fbkk5-1.fna.fbcdn.net/v/t1.15752-9/259401406_410260017522388_1456658837909761865_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=ae9488&_nc_ohc=LvB6UeN7faMAX8EM-AL&_nc_ht=scontent.fbkk5-1.fna&oh=03_AVJNnOZo-mdMKSFBbjdOxeMjGDZQCDkjlfTgx0Kg8jrBmA&oe=622F2CD2")
+      img.h-36.w-60.object-cover.rounded-lg.border-2(src="https://scontent.fbkk5-1.fna.fbcdn.net/v/t1.15752-9/259401406_410260017522388_1456658837909761865_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=ae9488&_nc_ohc=LvB6UeN7faMAX8EM-AL&_nc_ht=scontent.fbkk5-1.fna&oh=03_AVJNnOZo-mdMKSFBbjdOxeMjGDZQCDkjlfTgx0Kg8jrBmA&oe=622F2CD2")
       h1.text-2xl.font-bold-500.uppercase.pt-4.fo Verayutt Pakpume
 
   .grid.grid-cols-12.bg-white
