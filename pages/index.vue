@@ -38,7 +38,7 @@
 
           .form-item.w-full
             label.text-xl.font-semibold Biography
-            textarea.w-full.appearance-none.text-black.text-opacity-50.rounded.shadow.py-1.px-2.mr-2.text-opacity-25(cols="30" rows="10" class="focus:outline-none focus:shadow-outline focus:border-blue-200" disabled="") Hello my name is James, now I am looking for an internship place for me. to practice new skills and challenges
+            textarea.w-full.appearance-none.text-black.text-opacity-50.rounded.shadow.py-1.px-2.mr-2.text-opacity-25(cols="30" rows="10" class="focus:outline-none focus:shadow-outline focus:border-blue-200" disabled="") Hello my name is James, now I am looking for an internship place for me. to practice new skills and challenges 
 
           div
             h3.text-2xl.font-semibold My Social Media

@@ -35,7 +35,7 @@
             .flex.flex-col.bg-gray-200.rounded-lg.p-4.m-2
                 img.h-36.w-50.object-cover.rounded-md(src="https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.15752-9/272691381_686640869010869_7666844713785319937_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=ae9488&_nc_ohc=Raof2cXobfYAX8jF5-F&tn=KHdqdJKXO194LRMW&_nc_ht=scontent.fbkk5-4.fna&oh=03_AVJ2py_qYzagBTdvMxA1-ODDusEhUFGTWKaSZy_YjUpwVg&oe=622D236E" alt="")
                 .flex.flex-col.items-start.mt-4
-                    h4.text-.font-semibold Projects Movie-i
+                    h4.text-.font-semibold Projects Movie-i Application
                       a.pl-3.text-red-700(href="https://gitlab.com/overact150/movie-i") Link
 
 </template>
