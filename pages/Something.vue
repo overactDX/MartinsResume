@@ -23,20 +23,35 @@
 
         .grid.grid-cols-1.gap-2.max-w-6xl(class="xl:grid-cols-4 md:grid-cols-2")
             .flex.flex-col.bg-gray-200.rounded-lg.p-4.m-2
-                img.h-36.w-50.object-cover.rounded-md(src="https://jattapol456.github.io/Portfolio/_nuxt/img/madoobaan.1dabffb.jpg" alt="")
+                img.h-36.w-50.object-fill.rounded-md(src="https://jattapol456.github.io/Portfolio/_nuxt/img/madoobaan.1dabffb.jpg" alt="")
                 .flex.flex-col.items-start.mt-4
-                    h4.text-.font-semibold Projects Madoobaan
+                    h4.text-.font-semibold Projects Madoobaan :
                       a.pl-3.text-red-700(href="https://gitlab.com/onedee/madoobaan-frontend") Link
             .flex.flex-col.bg-gray-200.rounded-lg.p-4.m-2
-                img.h-36.w-50.object-cover.rounded-md(src="https://scontent.fbkk5-3.fna.fbcdn.net/v/t1.15752-9/273664836_964102737544091_562987527596445108_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=ae9488&_nc_ohc=Vwcg108wLdkAX_8Fmd6&_nc_ht=scontent.fbkk5-3.fna&oh=03_AVJQYLSQmQBmYNoEB6CiU9k7gahPZVxqllxX9BAzt59VRw&oe=622C2353" alt="")
+                img.h-36.w-50.object-fill.rounded-md(src="https://scontent.fbkk5-3.fna.fbcdn.net/v/t1.15752-9/273664836_964102737544091_562987527596445108_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=ae9488&_nc_ohc=Vwcg108wLdkAX_8Fmd6&_nc_ht=scontent.fbkk5-3.fna&oh=03_AVJQYLSQmQBmYNoEB6CiU9k7gahPZVxqllxX9BAzt59VRw&oe=622C2353" alt="")
                 .flex.flex-col.items-start.mt-4
-                    h4.text-.font-semibold Projects Library Website
+                    h4.text-.font-semibold Projects Library Website :
                       a.pl-3.text-red-700(href="https://gitlab.com/owutnr/jsbook") Link
             .flex.flex-col.bg-gray-200.rounded-lg.p-4.m-2
-                img.h-36.w-50.object-cover.rounded-md(src="https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.15752-9/272691381_686640869010869_7666844713785319937_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=ae9488&_nc_ohc=Raof2cXobfYAX8jF5-F&tn=KHdqdJKXO194LRMW&_nc_ht=scontent.fbkk5-4.fna&oh=03_AVJ2py_qYzagBTdvMxA1-ODDusEhUFGTWKaSZy_YjUpwVg&oe=622D236E" alt="")
+                img.h-36.w-50.object-fill.rounded-md(src="https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.15752-9/272691381_686640869010869_7666844713785319937_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=ae9488&_nc_ohc=Raof2cXobfYAX8jF5-F&tn=KHdqdJKXO194LRMW&_nc_ht=scontent.fbkk5-4.fna&oh=03_AVJ2py_qYzagBTdvMxA1-ODDusEhUFGTWKaSZy_YjUpwVg&oe=622D236E" alt="")
                 .flex.flex-col.items-start.mt-4
-                    h4.text-.font-semibold Projects Movie-i WebApp
+                    h4.text-.font-semibold Projects Movie-i App :
                       a.pl-3.text-red-700(href="https://gitlab.com/overact150/movie-i") Link
+            .flex.flex-col.bg-gray-200.rounded-lg.p-4.m-2
+                img.h-36.w-50.object-fill.rounded-md(src="https://scontent.fbkk5-1.fna.fbcdn.net/v/t1.15752-9/273751112_478358173742402_4562816550610345950_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=ae9488&_nc_ohc=M5M0SuAIEK4AX-bRnC0&_nc_ht=scontent.fbkk5-1.fna&oh=03_AVItK5wbKI1DRdNjSgeBou4yE9Zjk16HOSgY-MsRBszdoA&oe=622F9841" alt="")
+                .flex.flex-col.items-start.mt-4
+                    h4.text-.font-semibold Projects Pet Restaurant
+        .grid.grid-cols-1.gap-2.max-w-6xl(class="xl:grid-cols-4 md:grid-cols-2")
+            .flex.flex-col.bg-gray-200.rounded-lg.p-4.m-2
+                img.h-36.w-50.object-fill.rounded-md(src="https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.15752-9/272780387_369176741715645_7260600957291413887_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=ae9488&_nc_ohc=rV_Mjr3W_rEAX-4kClN&_nc_ht=scontent.fbkk5-4.fna&oh=03_AVJ1wW6ijfKKKHLIMrNfj0hUUaOFZZn61if3DLsKi_D2bg&oe=622DFF25" alt="")
+                .flex.flex-col.items-start.mt-4
+                    h4.text-.font-semibold Trained by OneDee.Solution
+            .flex.flex-col.bg-gray-200.rounded-lg.p-4.m-2
+                img.h-36.w-50.object-fill.rounded-md(src="https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.15752-9/259283815_497400961997508_3300098881960112603_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=ae9488&_nc_ohc=9uwrG-lLzBoAX-AZOpw&_nc_ht=scontent.fbkk5-4.fna&oh=03_AVJqJSildxVoo0_UENdrMmDIQN3x05n-buQi6UeK8lYXbw&oe=622D5858" alt="")
+                .flex.flex-col.items-start.mt-4
+                    h4.text-.font-semibold Restaurant Website Project
+
+
 
 </template>
 
