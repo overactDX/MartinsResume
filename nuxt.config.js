@@ -2,7 +2,7 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
   router: {
-    base: '/MartinsResume/'
+    base: process.env.NODE_ENV == 'production' ? '/MartinsResume/' :'/'
   },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
