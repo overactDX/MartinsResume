@@ -9,8 +9,8 @@
   .grid.grid-cols-12.bg-white
     .col-span-12.w-full.px-3.py-6.justify-center.flex.space-x-4.border-b.border-solid(class="md:space-x-0 md:space-y-4 md:flex-col md:col-span-2 md:justify-start")
       a.text-sm.p-2.bg-black.text-white.text-center.rounded.font-bold(href="/" class="hover:bg-black hover:text-gray-200") Basic Information
-      a.text-sm.p-2.bg-indigo-200.text-center.rounded.font-semibold(href="test" class="hover:bg-black hover:text-gray-200") Another Information
-      a.text-sm.p-2.bg-indigo-200.text-center.rounded.font-semibold(href="test2" class="hover:bg-black hover:text-gray-200") Another Something
+      a.text-sm.p-2.bg-indigo-200.text-center.rounded.font-semibold(href="/test" class="hover:bg-black hover:text-gray-200") Another Information
+      a.text-sm.p-2.bg-indigo-200.text-center.rounded.font-semibold(href="/test2" class="hover:bg-black hover:text-gray-200") Another Something
 
     .col-span-12.h-full.pb-12(class="md:border-solid md:border-l md:border-black md:border-opacity-25 md:col-span-10")
       .px-4.pt-4
